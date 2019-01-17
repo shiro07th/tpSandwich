@@ -4,3 +4,4 @@ tomate
 cornichon
 fromage
 bacon
+oignon frit

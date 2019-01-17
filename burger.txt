@@ -3,3 +3,4 @@ salade
 tomate
 cornichon
 fromage
+bacon
